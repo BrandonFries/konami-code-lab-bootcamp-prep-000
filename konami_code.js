@@ -10,5 +10,3 @@ const codes = [
   "b",
   "a"
 ];
-
-
