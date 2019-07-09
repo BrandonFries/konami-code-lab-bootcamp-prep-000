@@ -19,5 +19,13 @@ function init() {
   })
 }
 function compare(array) {
+  var result; 
+  if(array.length === codes.length) {
+    for(var i = 0; i < codes.length;) {
+      array[i] === codes[i]
+      i++
+    }
+    alert('Congrats!')
+  }
 
 }
